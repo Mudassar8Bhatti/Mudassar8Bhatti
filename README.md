@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 ---
 
 ### 🧑‍💻 Who I Am
-I'm a Computer Science student at UET, passionate about frontend development, database management, and building desktop & web applications. I love exploring AI tools and modern technologies to solve real-world problems through software.
+Passionate about frontend development, database management, and building practical software solutions, currently pursuing a BS in Computer Science at UET. Exploring AI tools and modern technologies to solve real-world problems through software.
 
-### 🚀 What I'm Currently Working On
-- Converting my **Netflix Clone** and **Spotify Clone** into full-stack applications
-- Building a **Real-Time Hand Gesture & Sign Language Translator** using computer vision
-- Developing a **Vulnerability Remediation & Assessment Tool (VRAT)** for security analysis
+👯 I’m looking to collaborate on Open-source projects that challenge logic—specifically those involving Database Optimization or building scalable Web APIs.
+
+🔭 I am currently working on learning how to make full-stack web applications and also learn new AI tools that enhance my productivity.
+
 
 ### 📫 How to Reach Me
 <p align="left">
