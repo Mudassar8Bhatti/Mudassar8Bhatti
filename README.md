@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Mudassar8Bhatti/Mudassar8Bhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
